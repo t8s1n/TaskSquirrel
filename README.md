@@ -5,7 +5,7 @@
 
 Submitted by: **66377**
 
-**Task Squirrel** is an app that shows users a list of tasks for the user to complete. Once completed users wil take and post photos that show where theyre taken on a map.
+**Task Squirrel** allows parents to create lists of tasks for their children to complete. Once completed children wil take photos that show where that task was completed the location is shared via map.
 
 Time spent: **2** hours spent in total
 
