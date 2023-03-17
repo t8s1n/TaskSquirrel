@@ -26,9 +26,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/YW89ESa3fA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-Recommended tools:
-[RecordIt](https://recordit.co/) for macOS
+GIF created with - [RecordIt](https://recordit.co/) for macOS
 
 ## Notes
 
