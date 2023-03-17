@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 - [x] When a task is tapped it navigates the user to a task detail view
 - [x] When user adds photo to complete the tasks, it marks the task as complete
 - [x] When adding photo of task, the location is added
-- [c] User returns to home page (list of tasks) and the status of your task is updated to complete
+- [x] User returns to home page (list of tasks) and the status of your task is updated to complete
 
 ## Video Walkthrough
 
@@ -27,8 +27,8 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[RecordIt](https://recordit.co/) for macOS -->
+Recommended tools:
+[RecordIt](https://recordit.co/) for macOS
 
 ## Notes
 
