@@ -5,7 +5,7 @@
 
 Submitted by: **66377**
 
-**Task Squirrel** is an app that ... [shows users a list of tasks for the user to complete. Once completed users wil take and post photos that show where theyre taken on a map.] 
+**Task Squirrel** is an app that shows users a list of tasks for the user to complete. Once completed users wil take and post photos that show where theyre taken on a map.
 
 Time spent: **2** hours spent in total
 
@@ -25,6 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/YW89ESa3fA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
 [RecordIt](https://recordit.co/) for macOS -->
